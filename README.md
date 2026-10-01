@@ -1,6 +1,6 @@
 # opus-transcriber-proxy
 
-Real-time WebSocket transcription proxy supporting multiple speech-to-text backends. Routes audio to OpenAI, Deepgram, Google Gemini, or xAI and streams transcription results back to clients.
+Real-time WebSocket transcription proxy supporting multiple speech-to-text backends. Routes audio to OpenAI, Deepgram, Google Gemini, xAI, or CloudTemple LLMaaS and streams transcription results back to clients.
 
 ## Features
 
